@@ -3,6 +3,6 @@
 </div>
 
 
-<img src="./data/demo_512.png" />
+<img src="./data/demo_512.png" align="center" />
 
 coming ...
