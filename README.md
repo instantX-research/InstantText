@@ -3,7 +3,10 @@
 </div>
 
 
-<img src="./data/demo_512.png" style="display: block; margin-left: auto; margin-right: auto;" />
+
+<div align=center>
+<img src="./data/demo_512.png" width = "550" />
+</div>
 
 coming ...
 
