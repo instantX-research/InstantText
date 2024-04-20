@@ -3,10 +3,12 @@
 </div>
 
 
+<img src="./data/demo_1.jpg" width = "425" /> | <img src="./data/demo_2.jpg" width = "414" /> 
 
-<div align=center>
+
+<!-- <div align=center>
 <img src="./data/demo_512.png" width = "550" />
-</div>
+</div> -->
 
 coming ...
 
