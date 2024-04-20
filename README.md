@@ -3,7 +3,8 @@
 </div>
 
 
-<img src="./data/demo_1.jpg" width = "425" /> | <img src="./data/demo_2.jpg" width = "414" /> 
+:-------------------------:|:-------------------------:
+<img src="./data/demo_1.jpg" width = "425" /> | <img src="./data/demo_2.jpg" width = "425" /> 
 
 
 <!-- <div align=center>
